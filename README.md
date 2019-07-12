@@ -14,4 +14,10 @@ $ git clone <paste repo url here>
 3. notice new dir in parent? cd to new dir and check status
 $ git status
 
+-- i had updated README.md on GitHub. figured there must be a command to get my local copy updated... there is, 
+
+$ git pull
+one file updated 
+$ git status :)
+
 

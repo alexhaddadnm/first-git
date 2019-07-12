@@ -20,4 +20,20 @@ $ git pull
 one file updated 
 $ git status :)
 
+4. Add or edit some stuff
+$ echo "<text here>" >> <filename.txt>
+$ vi OR cat <filename.txt>
+
+5. status shows "stuff" is not up to date, git add to put "stuff" in staging
+$ git add <filename.txt>
+
+6. now put "stuff" in staging into local repository
+$ git commit -m "<commit note>
+
+7. now push to master branch in server repository
+$ git push origin master
+
+
+
+
 

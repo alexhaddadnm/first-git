@@ -8,4 +8,10 @@ $ git config --global --list
 user.name=alexhaddadnm
 user.email=alexhaddadnm@gmail.com
 
-2. 
+2. clone repository
+$ git clone <paste repo url here>
+  
+3. notice new dir in parent? cd to new dir and check status
+$ git status
+
+
